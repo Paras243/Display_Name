@@ -37,7 +37,7 @@ function Dis_Name() {
 
   return (
     <div>
-      <h1>Display Fullname</h1>
+      <h1>Full Name Display</h1>
 
       <form onSubmit={Submitting}>
         <div>
